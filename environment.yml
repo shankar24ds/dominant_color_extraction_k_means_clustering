@@ -10,4 +10,4 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
-  - opencv-python=4.6.0
+  - cv2
