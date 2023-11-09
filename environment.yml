@@ -1,0 +1,12 @@
+name: dominant_color_extraction
+channels:
+  - defaults
+dependencies:
+  - python=3.9.17
+  - pandas
+  - numpy
+  - jupyter
+  - streamlit
+  - matplotlib
+  - seaborn
+  - scikit-learn
